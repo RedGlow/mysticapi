@@ -32,9 +32,9 @@ MysticAPIRoot
 Inheritance: [Thing](http://schema.org/Thing) > MysticAPIRoot
 
 Properties:
-- `recipes` ([URL](http://schema.org/URL)): a link to the extended recipes ([ExtendedRecipes](#extendedrecipes)).
-- `resultitemids` ([URL](http://schema.org/URL)): a link to the list of result item ids ([ResultItemIds](#resultitemids))
-- `recipeunlocks` ([URL](http://schema.org/URL)): a link tothe recipe unlocks ([ExtendedRecipesUnlocks](#extendedrecipesunlocks)).
+- [`recipes`](http://mysticapi.net/schema/recipes) ([URL](http://schema.org/URL)): a link to the extended recipes ([ExtendedRecipes](#extendedrecipes))
+- [`resultitemids`](http://mysticapi.net/schema/resultitemids) ([URL](http://schema.org/URL)): a link to the list of result item ids ([ResultItemIds](#resultitemids))
+- [`recipeunlocks`](http://mysticapi.net/schema/recipeunlocks) ([URL](http://schema.org/URL)): a link tothe recipe unlocks ([ExtendedRecipesUnlocks](#extendedrecipesunlocks))
 
 <a name="extendedrecipes"></a>ExtendedRecipes
 ---------------------------------------------
